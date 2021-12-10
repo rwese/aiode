@@ -13,7 +13,7 @@ repositories {
     }
 
     maven {
-        url = "https://dl.bintray.com/sedmelluq/com.sedmelluq"
+        url = "https://m2.dv8tion.net/"
     }
 
     maven {
