@@ -50,7 +50,7 @@ dependencies {
     implementation 'org.xerial:sqlite-jdbc:3.36.0.3'
     implementation "org.apache.commons:commons-collections4:4.4"
     implementation "org.apache.commons:commons-text:1.9"
-    implementation "org.codehaus.groovy:groovy-all:3.0.8"
+    implementation "org.codehaus.groovy:groovy-all:3.0.10"
     implementation "org.discordbots:DBL-Java-Library:2.0.1"
     implementation "org.ehcache:ehcache:3.9.8"
     implementation "org.glassfish:javax.el:3.0.1-b12"
